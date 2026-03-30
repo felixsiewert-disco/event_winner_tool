@@ -1,0 +1,6 @@
+streamlit
+pandas
+pgeocode
+openpyxl
+numpy
+pyngrok
